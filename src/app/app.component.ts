@@ -10,7 +10,9 @@ import { Component } from '@angular/core';
   <h2>Pushing into Github Angular Repository by Parnab</h2>
 =======
   <h3> QuadCrew4 <h3>
+  <h2>Pushing into Github Angular Repository by Shilpi</h2>
 >>>>>>> 19b7396c83be8c5f7434d4397cdc5f5ece342f73
+
   </div>
  `,
  styles: [
